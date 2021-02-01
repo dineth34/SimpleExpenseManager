@@ -1,3 +1,4 @@
+Github repository URL : https://github.com/dineth34/SimpleExpenseManager.git
 # SimpleExpenseManager
 This is an android based basic expense manager application which will be used as a lab assignment for CS3042 - Database Systems course module.
 
@@ -58,4 +59,4 @@ You can make improvements to the project as you require. However this project is
 6. Commit your code and push to your forked repository in GitHub.
 7. Download your project as a Zip from GitHub and submit as the completed assignment.
 
-https://github.com/dineth34/SimpleExpenseManager.git
+
